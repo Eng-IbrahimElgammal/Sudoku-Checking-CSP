@@ -42,19 +42,19 @@ python sudoku.py
 ```
 ## Code Explanation
 
-# Printing the Board
+### Printing the Board
 The print_board function prints the current state of the Sudoku board in a readable format, with separators for the 3x3 boxes.
 
-# Checking Validity
+### Checking Validity
 The is_valid function checks if a given number can be placed in a specified position without violating Sudoku rules (no duplicates in the same row, column, or 3x3 box).
 
-# Solving the Puzzle
+### Solving the Puzzle
 The solve function uses a backtracking algorithm to fill in the Sudoku board. It tries each number from 1 to 9 in each empty cell and recurses to solve the board. If it finds a valid solution, it returns True; otherwise, it backtracks and tries another number.
 
-# Generating a Puzzle
+### Generating a Puzzle
 The generate function creates a complete Sudoku board and then removes a random number of cells (between MIN_NUM_TO_REMOVE and MAX_NUM_TO_REMOVE) to create a puzzle. The difficulty of the puzzle can be adjusted by changing these constants.
 
-# How to Contribute
+### How to Contribute
 If you would like to contribute to this project, please follow these steps:
 
 1.Fork the repository.
