@@ -57,10 +57,10 @@ The generate function creates a complete Sudoku board and then removes a random 
 ### How to Contribute
 If you would like to contribute to this project, please follow these steps:
 
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature-branch).
-3.Commit your changes (git commit -am 'Add new feature').
-4.Push to the branch (git push origin feature-branch).
-5.Create a new Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
