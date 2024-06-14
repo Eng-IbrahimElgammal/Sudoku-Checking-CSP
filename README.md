@@ -63,4 +63,4 @@ If you would like to contribute to this project, please follow these steps:
 - Push to the branch (`git push origin feature-branch`).
 - Create a new Pull Request.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Eng-IbrahimElgammal/Sudoku-Checking-CSP/blob/main/LICENSE) file for more details.
