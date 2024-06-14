@@ -29,7 +29,7 @@ Welcome to the Sudoku Game! This is a Python program that generates a Sudoku puz
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/Eng-IbrahimElgammal/sudoku-game.git
    cd sudoku-game
 ```
 2. Run the game:
