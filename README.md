@@ -42,7 +42,7 @@ Enter 0 0 0 to solve the puzzle automatically.
 ```
 ## Code Explanation
 
-Printing the Board
+- Printing the Board
 The print_board function prints the current state of the Sudoku board in a readable format, with separators for the 3x3 boxes.
 
 Checking Validity
@@ -62,5 +62,5 @@ Create a new branch (git checkout -b feature-branch).
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
