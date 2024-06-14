@@ -12,7 +12,6 @@ Welcome to the Sudoku Game! This is a Python program that generates a Sudoku puz
   - [Checking Validity](#checking-validity)
   - [Solving the Puzzle](#solving-the-puzzle)
   - [Generating a Puzzle](#generating-a-puzzle)
-- [How to Contribute](#how-to-contribute)
 - [License](#license)
 
 ## Features
@@ -54,13 +53,5 @@ The `solve` function uses a backtracking algorithm to fill in the Sudoku board. 
 ### Generating a Puzzle
 The `generate` function creates a complete Sudoku board and then removes a random number of cells (between `MIN_NUM_TO_REMOVE` and `MAX_NUM_TO_REMOVE`) to create a puzzle. The difficulty of the puzzle can be adjusted by changing these constants.
 
-### How to Contribute
-If you would like to contribute to this project, please follow these steps:
-
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-branch`).
-- Commit your changes (`git commit -am 'Add new feature`).
-- Push to the branch (`git push origin feature-branch`).
-- Create a new Pull Request.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Eng-IbrahimElgammal/Sudoku-Checking-CSP/blob/main/LICENSE) file for more details.
